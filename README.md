@@ -17,7 +17,7 @@ A multiplayer offline word-guessing game in Spanish. Players take turns guessing
 1. Install Java JDK (version 8 or higher).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hangman-game.git
+   git clone https://github.com/Sebastchan8/HangmanGame.git
    ```
 3. Compile and run the game:
    ```bash
